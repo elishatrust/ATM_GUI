@@ -24,6 +24,8 @@ ATM - Desktop software App developed in Java
       5. 100000
       6. Exit
       
+      Take a cash and print a reciept of want
+      
 Technologies
 --------------
 Higher Level programming in Java
